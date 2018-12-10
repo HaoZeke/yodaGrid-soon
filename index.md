@@ -5,6 +5,7 @@ permalink: /
 
 # Coming soon
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
-Some call to action.
+yodaGrid is a FOSS electromagnetic wave propogation toolkit for intgrating quantum chemical calculations with FDTD software.
+
+Presented at Photonics 2018.
 
