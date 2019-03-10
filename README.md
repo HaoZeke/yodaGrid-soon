@@ -4,7 +4,7 @@
 
 This is based off the template [here](https://github.com/kelvinmo/soon).
 
-This is a simple placeholder site. For work presented at Photonics 2018.
+This is a simple placeholder site. For work presented at Photonics 2018 and at URSI 2019.
 
 ## Licence
 
